@@ -140,6 +140,7 @@ external hardware:
  - PCF8574 8-Bit I/O Expander for I2C
  - X9C1xxx (xxx = 102,103,104,503) digital potentiometers
  - HC-SR04 (ultrasonic sensor)
+ - TM1637 4-Digit Display
 
 internal hardware:
  - counter, frequency measurement
